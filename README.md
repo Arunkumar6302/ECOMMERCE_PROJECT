@@ -45,7 +45,5 @@ This project is lightweight, simple to execute, and runs on any system with a Ja
 -> The cart stores selected items and updates the total amount.
 -> The user proceeds to checkout.
 -> The payment module simulates transaction processing.
-
-After successful payment, the cart is cleared.
-
-The program continues until the user exits.
+-> After successful payment, the cart is cleared.
+-> The program continues until the user exits.
